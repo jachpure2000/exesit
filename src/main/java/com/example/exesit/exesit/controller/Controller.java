@@ -9,6 +9,6 @@ public class Controller {
 
     @GetMapping("/message")
     public String getMessage(){
-        return "aman bhosdi wala";
+        return "java";
     }
 }
